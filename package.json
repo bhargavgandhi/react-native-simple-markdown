@@ -77,5 +77,8 @@
     "url": "https://github.com/bhargavgandhi/react-native-simple-markdown/issues"
   },
   "homepage": "https://github.com/bhargavgandhi/react-native-simple-markdown#readme",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  }
 }
